@@ -1,0 +1,33 @@
+[32m[09-01 19:09:34 MainThread @machine_info.py:88][0m Cannot find available GPU devices, using CPU now.
+[32m[09-01 19:09:34 MainThread @machine_info.py:88][0m Cannot find available GPU devices, using CPU now.
+[32m[09-01 19:09:35 MainThread @machine_info.py:88][0m Cannot find available GPU devices, using CPU now.
+[32m[09-01 19:10:01 MainThread @train.py:97][0m episode:50    e_greed:0.09200000000005999   test_reward:-200.0
+[32m[09-01 19:10:34 MainThread @train.py:97][0m episode:100    e_greed:0.01   test_reward:-200.0
+[32m[09-01 19:11:10 MainThread @train.py:97][0m episode:150    e_greed:0.01   test_reward:-200.0
+[32m[09-01 19:11:46 MainThread @train.py:97][0m episode:200    e_greed:0.01   test_reward:-200.0
+[32m[09-01 19:12:22 MainThread @train.py:97][0m episode:250    e_greed:0.01   test_reward:-200.0
+[32m[09-01 19:12:58 MainThread @train.py:97][0m episode:300    e_greed:0.01   test_reward:-200.0
+[32m[09-01 19:13:34 MainThread @train.py:97][0m episode:350    e_greed:0.01   test_reward:-200.0
+[32m[09-01 19:14:11 MainThread @train.py:97][0m episode:400    e_greed:0.01   test_reward:-200.0
+[32m[09-01 19:14:46 MainThread @train.py:97][0m episode:450    e_greed:0.01   test_reward:-200.0
+[32m[09-01 19:15:22 MainThread @train.py:97][0m episode:500    e_greed:0.01   test_reward:-200.0
+[32m[09-01 19:15:58 MainThread @train.py:97][0m episode:550    e_greed:0.01   test_reward:-200.0
+[32m[09-01 19:16:34 MainThread @train.py:97][0m episode:600    e_greed:0.01   test_reward:-200.0
+[32m[09-01 19:17:10 MainThread @train.py:97][0m episode:650    e_greed:0.01   test_reward:-200.0
+[32m[09-01 19:17:46 MainThread @train.py:97][0m episode:700    e_greed:0.01   test_reward:-200.0
+[32m[09-01 19:18:22 MainThread @train.py:97][0m episode:750    e_greed:0.01   test_reward:-200.0
+[32m[09-01 19:18:59 MainThread @train.py:97][0m episode:800    e_greed:0.01   test_reward:-200.0
+[32m[09-01 19:19:35 MainThread @train.py:97][0m episode:850    e_greed:0.01   test_reward:-200.0
+[32m[09-01 19:20:11 MainThread @train.py:97][0m episode:900    e_greed:0.01   test_reward:-200.0
+[32m[09-01 19:20:47 MainThread @train.py:97][0m episode:950    e_greed:0.01   test_reward:-200.0
+[32m[09-01 19:21:23 MainThread @train.py:97][0m episode:1000    e_greed:0.01   test_reward:-200.0
+[32m[09-01 19:21:58 MainThread @train.py:97][0m episode:1050    e_greed:0.01   test_reward:-200.0
+[32m[09-01 19:22:35 MainThread @train.py:97][0m episode:1100    e_greed:0.01   test_reward:-200.0
+[32m[09-01 19:23:11 MainThread @train.py:97][0m episode:1150    e_greed:0.01   test_reward:-200.0
+[32m[09-01 19:23:47 MainThread @train.py:97][0m episode:1200    e_greed:0.01   test_reward:-200.0
+[32m[09-01 19:24:23 MainThread @train.py:97][0m episode:1250    e_greed:0.01   test_reward:-200.0
+[32m[09-01 19:24:59 MainThread @train.py:97][0m episode:1300    e_greed:0.01   test_reward:-200.0
+[32m[09-01 19:25:35 MainThread @train.py:97][0m episode:1350    e_greed:0.01   test_reward:-200.0
+[32m[09-01 19:26:11 MainThread @train.py:97][0m episode:1400    e_greed:0.01   test_reward:-200.0
+[32m[09-01 19:26:47 MainThread @train.py:97][0m episode:1450    e_greed:0.01   test_reward:-200.0
+[32m[09-01 19:27:22 MainThread @train.py:97][0m episode:1500    e_greed:0.01   test_reward:-200.0
