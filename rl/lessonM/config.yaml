@@ -1,0 +1,42 @@
+# seed: 1
+
+main:
+  train_total_steps: 1000000
+  test_every_steps: 10000
+  memory_size: 1000000
+  environment: make_env("Quadrotor", task="hovering_control")
+  save_model: True
+  log_path: ./log_dir/
+  visual_result: False
+  runs_per_agent: 2
+  warmup_size: 10000
+  batch_size: 256
+  reward_scale: 1
+  expl_noise: 0.1
+
+ddpg:
+  obs_dim: 16
+  act_dim: 4
+  max_action: 15.0
+  gamma: 0.99
+  tau: 0.005
+  actor_lr: 0.001
+  critic_lr: 0.001
+
+td3:
+  obs_dim: 16
+  act_dim: 4
+  max_action: 15.0
+  gamma: 0.99
+  tau: 0.005
+  actor_lr: 0.001
+  critic_lr: 0.001
+
+sac:
+  obs_dim: 16
+  act_dim: 4
+  max_action: 15.0
+  gamma: 0.99
+  tau: 0.005
+  actor_lr: 0.001
+  critic_lr: 0.001
