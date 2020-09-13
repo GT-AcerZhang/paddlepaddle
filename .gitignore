@@ -3,3 +3,5 @@
 **/tmp_*
 *.ipynb
 **/log_dir
+*.ckpt
+**/vdlrecords*.log
